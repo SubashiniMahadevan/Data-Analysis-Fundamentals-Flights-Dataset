@@ -10,7 +10,7 @@
  - Identify patterns and relationships between them.
 
 
-   ****Data Cleaning**:
+   **Data Cleaning**:
    - Finding Missing Values and Outliers.
    - Data Imputation Techniques - Handling missing values and outliers.
    - Removing Duplicates and Ensuring Data Consistency.
@@ -21,7 +21,7 @@
    - Grouping and Aggregating data.
    - Sorting of Data
   
-   ******Data Visualization**:
+   **Data Visualization**:
 
    - Using Libraries like Matplotlib, Seaborn and Plotly for visualizations
    - Visualization helps in validating assumptions and hypotheses about the data.
